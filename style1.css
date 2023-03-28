@@ -1,0 +1,17 @@
+
+.study-G1_Pfvwd .title-G1_Pfvwd.mainTitle-G1_Pfvwd {
+  flex: 0 4 auto;
+  min-width: 15px;
+}
+.title-G1_Pfvwd {
+  color: #131722;
+  min-width: 23px;
+  overflow: hidden;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.study-G1_Pfvwd .title-G1_Pfvwd.mainTitle-G1_Pfvwd {
+  flex: 0 4 auto;
+  min-width: 15px;
+}
